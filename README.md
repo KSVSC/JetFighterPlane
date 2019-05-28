@@ -1,12 +1,12 @@
 ## Execute:
-<br>1.Create a build folder(mkdir build)
+1.Create a build folder(mkdir build)
 <br>2.cd into build folder(cd build)
 <br>3.run : cmake ..
 <br>4.run make all
 <br>5.compile ./graphic_asgn1
 
 ### CONTROLS:
-<br>A/D- Rotate Plane counter clockwise/clockwise direction
+A/D- Rotate Plane counter clockwise/clockwise direction
 <br>Up/Down- Plane altitude increase and decrease
 <br>Q/E - Tilt Plane about it's own axis
 <br>W - Move plane forward
