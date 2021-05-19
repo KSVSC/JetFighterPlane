@@ -1,9 +1,12 @@
-## Execute:
-1.Create a build folder(mkdir build)
-<br>2.cd into build folder(cd build)
-<br>3.run : cmake ..
-<br>4.run make all
-<br>5.compile ./graphic_asgn1
+# JetFighter Plane
+This is a 3D game implemented in OpenGL using C++ as part of Graphics course at IIIT Hyderabad.
+
+## Usage:
+1.Create a build folder `mkdir build`
+<br>2.cd into build folder`cd build`
+<br>3.run : `cmake ..`
+<br>4.run `make all`
+<br>5.compile `./graphic_asgn1`
 
 ### CONTROLS:
 A/D- Rotate Plane counter clockwise/clockwise direction
