@@ -8,7 +8,7 @@ This is a 3D game implemented in OpenGL using C++ as part of Graphics course at 
 <br>4.run `make all`
 <br>5.compile `./graphic_asgn1`
 
-### CONTROLS:
+### Game Controls:
 A/D- Rotate Plane counter clockwise/clockwise direction
 <br>Up/Down- Plane altitude increase and decrease
 <br>Q/E - Tilt Plane about it's own axis
